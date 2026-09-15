@@ -1,4 +1,5 @@
-password = input("Enter the password: ")
+password = input("Enter the password, eight characters: ")
+
 
 counter = 0
 
