@@ -1,3 +1,3 @@
-from calculations.general_calculations import exponentiation
+from calculationsTest.general_calculations import exponentiation
 
 exponentiation(5, 3)

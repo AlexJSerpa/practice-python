@@ -1,0 +1,7 @@
+setup.py
+calculationsTest/__init__.py
+calculationsTest/general_calculations.py
+testcalculations.egg-info/PKG-INFO
+testcalculations.egg-info/SOURCES.txt
+testcalculations.egg-info/dependency_links.txt
+testcalculations.egg-info/top_level.txt
